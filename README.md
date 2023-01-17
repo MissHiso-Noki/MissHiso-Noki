@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## I'm a student at https://42.fr/ (Paris, France) since November 2022.
+
 <!--
 **MissHiso-Noki/MissHiso-Noki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
